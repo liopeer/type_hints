@@ -1,3 +1,6 @@
+class Tensor:
+    def __init__(self, *args) -> None:
+        pass
 class Batch:
     def __init__(self) -> None:
         pass
