@@ -7,5 +7,5 @@ setup(
     author="Lionel Peer",
     author_email="lionel.peer@gmail.com",
     url="https://github.com/liopeer/type_hints",
-    packages=["source"]
+    packages=["type_hints"]
 )
